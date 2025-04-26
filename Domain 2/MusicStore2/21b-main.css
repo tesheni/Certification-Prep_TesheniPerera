@@ -2,3 +2,8 @@
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
 } 
+
+/* External style sheet, so basically in a another page, basically */
+p {
+    color: navy;
+}
