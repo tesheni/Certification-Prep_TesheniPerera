@@ -13,3 +13,14 @@ p {
 #sidenote {
     background-color:#dbd9d9;
 }
+
+/* Step 2 & 3: Basic link style - no underline */
+a {
+  text-decoration: none;
+}
+
+/* Step 4 & 5: Hover style - underline + bold */
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
